@@ -1,0 +1,14 @@
+h1{
+  color: #ff0066;
+  font-family: 'Roboto Mono', monospace;
+}
+
+p{
+  color: #006666;
+  font-family: 'Inconsolata', monospace;
+}
+img{
+  height:300px;
+  weight:50px;
+  border:10px solid #ff0066;
+}
